@@ -1,0 +1,19 @@
+{
+  "kind": "singleType",
+  "collectionName": "price_settings",
+  "info": {
+    "singularName": "price-setting",
+    "pluralName": "price-settings",
+    "displayName": "Price Setting",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "attributes": {
+    "amount": {
+      "type": "decimal",
+      "required": true
+    }
+  }
+}
