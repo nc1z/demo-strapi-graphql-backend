@@ -2,7 +2,7 @@
 
 The GraphQL plugin enables querying the existing endpoints using GraphQL language and syntax, while keeping the content types and APIs set up and customized in a similar manner as the <a href="https://github.com/nc1z/demo-strapi-rest-backend">Strapi REST backend</a>. The development process for APIs and endpoints remains relatively unchanged.
 
-## Quickstart Register
+## Quickstart
 
 ### Register
 
