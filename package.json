@@ -12,6 +12,7 @@
     "data:import": "npm run strapi import -- -k admin -f data-export/strapi-export.tar.gz.enc"
   },
   "dependencies": {
+    "@strapi/plugin-graphql": "4.11.5",
     "@strapi/plugin-i18n": "4.11.5",
     "@strapi/plugin-users-permissions": "4.11.5",
     "@strapi/strapi": "4.11.5",
